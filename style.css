@@ -1,0 +1,41 @@
+* {
+    background-color: #fee4c3;
+}
+.container {
+    margin-left: 150px;
+    margin-right: 150px;
+    
+}
+.Text1 {
+    text-align: left;
+    border-width: thin;
+    border-style: solid;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 5px;
+    min-width: 200px;
+    border-color: #988c82;
+    background-color: #efefef;
+}
+.Text2 {
+    text-align: center;
+    border-width: thin;
+    border-style: solid;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 5px;
+    min-width: 200px;
+    border-color: #988c82;
+    background-color: #efefef;
+}
+.Text3 {
+    text-align: right;
+    border-width: thin;
+    border-style: solid;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 5px;
+    min-width: 200px;
+    border-color: #988c82;
+    background-color: #efefef;
+}
